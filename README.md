@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">A</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <a href="https://twitter.com/kartik_r_a" target="blank"><img src="https://img.shields.io/twitter/follow/kartik_r_a?logo=twitter&style=for-the-badge" alt="kartik_r_a" /></a> </p>
 
